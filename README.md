@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V13156?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Implementing Windows Server 2019 High Availability [Video]
 This is the code repository for [Implementing Windows Server 2019 High Availability [Video]](https://www.packtpub.com/networking-and-servers/implementing-windows-server-2019-high-availability-video?utm_source=github&utm_medium=repository&utm_campaign=9781789955026), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
