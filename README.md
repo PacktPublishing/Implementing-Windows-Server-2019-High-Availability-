@@ -92,3 +92,7 @@ Other necessary software will be detailed in the respective lesson where needed
 
 * [Implementing Windows Server 2019 High Availability [Video]](https://www.packtpub.com/networking-and-servers/implementing-windows-server-2019-high-availability-video?utm_source=github&utm_medium=repository&utm_campaign=9781789955026)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789955026">https://packt.link/free-ebook/9781789955026 </a> </p>
